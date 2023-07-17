@@ -13,4 +13,4 @@ Hi there 👋<br>🔭 I’m currently working on DSA<br><br>🌱 I’m currently
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulbbhardwaj&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mukulbbhardwaj&icon=0&color=10)](https://visitcount.itsvg.in)
+
